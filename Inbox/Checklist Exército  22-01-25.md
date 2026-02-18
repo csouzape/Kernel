@@ -1,0 +1,7 @@
+- [ ] Comprovante de residência (Cópia Impressa)
+- [ ] Cópia do CPF (Cópia Impressa)
+- [ ] Certidão de nascimento (Cópia Impressa)
+- [ ] Cartão de vacina (Cópia Impressa)
+- [ ] Cópia da CNH (Impressa)
+- [ ] Comprovante de doação de sangue (Desejável)
+- [ ] Roupa para atividade física (short, camisa, tênis, etc)

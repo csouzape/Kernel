@@ -1,0 +1,1 @@
+[Piratas do vale do silicio](https://terminalroot.com.br/2019/08/assista-agora-o-filme-piratas-do-vale-do-silicio.html) : explica a historia do bill gates com MS-DOS, apos bilgates copiar o sistema de janelas (na epoca apenas a apple e bill gates sabiam)

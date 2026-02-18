@@ -1,0 +1,8 @@
+.obsidian/workspace*
+.obsidian/workspace-mobile*
+.obsidian/graph.json
+.obsidian/app.json
+.obsidian/appearance.json
+.trash/
+.debris/
+*.sync-conflict*
